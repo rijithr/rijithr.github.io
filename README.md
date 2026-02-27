@@ -60,7 +60,6 @@ This is my personal developer portfolio showcasing my projects, technical skills
 | Email | rijith2311@gmail.com |
 | LinkedIn | [linkedin.com/in/rijithrajesh](https://linkedin.com/in/rijithrajesh) |
 | GitHub | [github.com/rijithr](https://github.com/rijithr) |
-| Phone | +91 95620 36940 |
 
 ---
 
